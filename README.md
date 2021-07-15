@@ -6,16 +6,13 @@
   
 <h3>🔍 Contact :</h3>
 <p>
-  
+    <a href="https://www.linkedin.com/in/vincegsm/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hemraj183" /></a>
 </p>
-  <a href="https://github.com/VinceGusmini" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/vincegsm/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Hemraj183" /></a>
 
 <h3>⚒ Tools :</h3>
 <p>
   <a target="_blank"><img alt="Visual Studio" src="https://img.shields.io/badge/Visual%20Studio-%2312100E.svg?logo=visual-studio&style=for-the-badge&logoColor=purple"/></a> 
   <a target="_blank"><img alt="Visual Studio Code" src="https://img.shields.io/badge/Visual%20Studio%20Code-%2312100E.svg?logo=visual-studio-code&style=for-the-badge&logoColor=blue"/></a> 
 </p>
-
 
 ![Profile Views](https://visitor-badge.glitch.me/badge?page_id=VinceGusmini.VinceGusmini)
