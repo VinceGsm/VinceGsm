@@ -7,7 +7,6 @@
 <h3>🔍 Contact :</h3>
 <p>
   <a href="https://www.codingame.com/profile/7117c20a016582dd9bcc144e66509b338303603" target="blank"><img src="https://avatars.githubusercontent.com/u/6946974?s=28&v=4"/></a>
-  <a href="https://www.linkedin.com/in/vincegsm/" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 </p>
 
 <h3>⚒ Tools :</h3>
