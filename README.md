@@ -2,7 +2,7 @@
 
 <img align='right' src='https://user-images.githubusercontent.com/5713670/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif' width='200'>
 
-![Stats](https://github-readme-stats.vercel.app/api?username=VinceGusmini&show_icons=true&count_private=true&theme=chartreuse-dark&hide=stars)
+![Stats](https://github-readme-stats.vercel.app/api?username=VinceGsm&show_icons=true&count_private=true&theme=chartreuse-dark&hide=stars)
   
 <h3>🔍 Contact :</h3>
 <p>
