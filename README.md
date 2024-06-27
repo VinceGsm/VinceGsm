@@ -4,10 +4,6 @@
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=VinceGsm&show_icons=true&count_private=true&theme=chartreuse-dark&hide=stars)
   
-<h3>🔍 Contact :</h3>
-<p>
-  <a href="https://www.codingame.com/profile/7117c20a016582dd9bcc144e66509b338303603" target="blank"><img src="https://avatars.githubusercontent.com/u/6946974?s=28&v=4"/></a>
-</p>
 
 <h3>⚒ Tools :</h3>
 <p>
